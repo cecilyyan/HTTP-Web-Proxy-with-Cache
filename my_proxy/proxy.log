@@ -1,0 +1,18 @@
+1: "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" from 152.3.72.105 @ Wed Feb 27 22:28:05 2019
+1: not in cache
+1: Requesting "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" from people.duke.edu
+1: Received "HTTP/1.1 200 OK" from people.duke.edu
+1: cached, expires at Wed Feb 27 22:28:05 2019
+1: Responding "HTTP/1.1 200 OK"
+2: "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" from 152.3.72.105 @ Wed Feb 27 22:28:05 2019
+2: not in cache
+2: Requesting "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" from people.duke.edu
+2: Received "HTTP/1.1 200 OK" from people.duke.edu
+2: cached, expires at Wed Feb 27 22:28:05 2019
+2: Responding "HTTP/1.1 200 OK"
+3: "GET http://people.duke.edu/favicon.ico HTTP/1.1" from 152.3.72.105 @ Wed Feb 27 22:28:05 2019
+3: not in cache
+3: Requesting "GET http://people.duke.edu/favicon.ico HTTP/1.1" from people.duke.edu
+3: Received "HTTP/1.1 404 Not Found" from people.duke.edu
+3: not cacheable because 
+3: Responding "HTTP/1.1 404 Not Found"
